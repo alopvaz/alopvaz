@@ -1,7 +1,7 @@
 <h1 align="center"> <b>Hola, soy Alicia👋</b><h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 
+![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
