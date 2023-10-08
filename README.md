@@ -1,7 +1,7 @@
 <h1 align="center"> <b>Hola, soy Alicia👋</b><h1>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil+de+GitHub+😊;&hearts=++;Estudiante+de+Grado+Superior+🤓;&hearts=++;Me+encanta+investigar+sobre+desarrollo+web+💻">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil+de+GitHub+😊">
 </a>
 
 ## About me
