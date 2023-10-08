@@ -6,13 +6,13 @@
 
 </h2>
 
-## About me
+## Sobre mi: 
 
 <br>
 
-- Apasionada del desarrollo web. 
-- Aprendiendo sobre Inteligencia Artificial en mi tiempo libre.
-- Filósofa, con certificado.
+- Apasionada del desarrollo web 🌐
+- Aprendiendo sobre Inteligencia Artificial 🤖 en mi tiempo libre 🌴
+- Filósofa 🧠, con certificado 📃
 
   <br>
 
