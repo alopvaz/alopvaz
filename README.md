@@ -21,7 +21,8 @@
 
   <p align="center">
 	  
-<i class="fa-brands fa-java"></i>
+![image](https://github.com/alopvaz/alopvaz/assets/146581380/71222e27-b8f8-4e88-b9a6-84045bf38f26)
+
 </p>
 
   - Lenguajes:
