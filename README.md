@@ -21,15 +21,9 @@
 
   <p align="center">
 
-<img src="https://iconos8.es/icon/2572/logotipo-de-java-coffee-cup"> </img>
-	  
+     <a href="https://iconos8.es/icon/2572/logotipo-de-java-coffee-cup" alt="Code Forces"/></a>
+
 </p>
 
-  - Lenguajes:
-
-Java 
-Python
-
-
-  
+ 
 
