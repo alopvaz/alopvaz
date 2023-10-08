@@ -1,4 +1,5 @@
-<h1> Hola, soy Alicia👋 <h1>
+<h1 align="center"> <b>Hola, soy Alicia👋</b><h1>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZuMTUwdGF2b3lsZThqc3llcmIyY2h5N25jMmF5MjI1OTFxc2dlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"> </img>
 
 
 
