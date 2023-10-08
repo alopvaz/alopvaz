@@ -21,8 +21,7 @@
 
   <p align="center">
 
-     <a href="https://iconos8.es/icon/2572/logotipo-de-java-coffee-cup" alt="Code Forces"/></a>
-
+     <a href="https://iconos8.es/icon/2572/logotipo-de-java-coffee-cup" alt="Code Forces"/>
 </p>
 
  
