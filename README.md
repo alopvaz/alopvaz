@@ -20,7 +20,7 @@
   ## Habilidades
 
   <p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.genbeta.com%2Fdesarrollo%2Fjava-api-y-ejemplos&psig=AOvVaw1P7uy57mX684m1ciAtG6D9&ust=1696882043494000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJiZ5K2g54EDFQAAAAAdAAAAABAD" alt="Code Forces"/></a>
 	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
 	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
