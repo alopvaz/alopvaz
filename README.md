@@ -11,8 +11,9 @@
 <br>
 
 - Apasionada del desarrollo web 🌐
+- Filósofa 🧠 con certificado 📃
 - Aprendiendo sobre Inteligencia Artificial 🤖 en mi tiempo libre 🌴
-- Filósofa 🧠, con certificado 📃
+- Humana, demasiado humana 🖋️
 
   <br>
 
