@@ -1,6 +1,7 @@
 <h1 align="center"> <b>Hola, soy Alicia👋</b><h1>
 <!--Añadir un GIF-->
-![portada](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZuMTUwdGF2b3lsZThqc3llcmIyY2h5N25jMmF5MjI1OTFxc2dlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)
+![giphy](https://github.com/alopvaz/alopvaz/assets/146581380/17643d2f-0f75-4d9f-ab19-c91c0a86e0b9)
+
 
 
 - 👀 I’m interested in ...
