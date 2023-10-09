@@ -21,14 +21,18 @@
 
 ### 💻 Lenguajes de programación:
 <br>
-
 <div style="text-align: center">
     <table border="1">
         <tr>
-            <td><b>Java</b> <img src="https://www.manualweb.net/img/logos/java.png" width="30px"></td>
-
-           <td> <b>Python</b> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logonotext.svg" width="30px"></td>
-        </tr>
+            <td>
+              <b>Java</b> 
+              <img src="https://www.manualweb.net/img/logos/java.png" width="30px">
+            </td>
+            <td> 
+              <b>Python</b> 
+              <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logonotext.svg" width="30px">
+            </td>
+      </tr>
     </table>
 </div>
 
