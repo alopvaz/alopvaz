@@ -21,15 +21,15 @@
 
   - Lenguajes de programación:
 
-<h1 align="center">
-<table border="1">
-<tr>
-<td>Java</td>
-<td>Python</td>
-</tr>
 
-</table>
-</h1>
+<div style="border: 1pt solid #fbb; text-align: center;">
+    Una tabla con una celda
+    <table border="1">
+        <tr>
+            <td>Una celda</td>
+        </tr>
+    </table>
+</div>
 
 
  
