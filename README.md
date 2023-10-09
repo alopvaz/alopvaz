@@ -17,9 +17,9 @@
 
   <br>
 
-## Habilidades
+## Habilidades:
 
-### Lenguajes de programación 💻 
+### Lenguajes de back-end 💻 
 
   - Java <img src="https://www.manualweb.net/img/logos/java.png" width="30px">
   
