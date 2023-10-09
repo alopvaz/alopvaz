@@ -21,7 +21,7 @@
 
   - Lenguajes de programación:
 
-<h3 align="center">
+<h1 align="center">
 <table border="1">
 <tr>
 <td>Java</td>
@@ -29,7 +29,7 @@
 </tr>
 
 </table>
-</h3>
+</h1>
 
 
  
