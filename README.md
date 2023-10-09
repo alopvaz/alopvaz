@@ -17,7 +17,16 @@
 
   <br>
 
-  ## Habilidades
+## Habilidades
+
+  - Lenguajes de programación:
+<table border="1">
+<tr>
+<td>Java</td>
+<td>Python</td>
+</tr>
+
+</table>
 
 
  
