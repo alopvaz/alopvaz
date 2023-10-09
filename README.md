@@ -31,7 +31,7 @@
   
   - CSS <img src="https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="30px"></img>
   
-  - JavaScript <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png
-" width="30px"></img>
+  - JavaScript
+<img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" width="30px"></img>
 
 
