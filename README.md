@@ -6,7 +6,7 @@
 
 </h2>
 
-## Sobre mi: 
+## Sobre mi:  
 
 <br>
 
