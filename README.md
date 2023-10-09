@@ -22,11 +22,14 @@
   - Lenguajes de programación:
 
 
-<div style="border: 1pt solid #fbb; text-align: center;">
+<div style="text-align: center">
     Una tabla con una celda
     <table border="1">
         <tr>
-            <td>Una celda</td>
+            <td>Java</td>
+        </tr>
+       <tr>
+            <td>Python</td>
         </tr>
     </table>
 </div>
