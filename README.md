@@ -41,6 +41,6 @@
 
 - CSS <img src="https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="30px"></img>
 
-- JavaScript <img src="[https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png](https://thumbs.dreamstime.com/z/javascript-logo-editorial-ilustrativo-sobre-fondo-blanco-illustrative-white-background-eps-descargar-vector-jpeg-banner-208329455.jpg?w=768)https://thumbs.dreamstime.com/z/javascript-logo-editorial-ilustrativo-sobre-fondo-blanco-illustrative-white-background-eps-descargar-vector-jpeg-banner-208329455.jpg?w=768" width="30px"></img>
+- JavaScript <img src="https://es.wikipedia.org/wiki/Archivo:Unofficial_JavaScript_logo_2.svg" width="30px"></img>
 
 
