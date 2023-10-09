@@ -21,7 +21,6 @@
 
 ### 💻 Lenguajes de programación:
 <br>
-<div style="justify-content: center">
     <table border="1">
         <tr>
             <td> 
@@ -34,12 +33,27 @@
             </td>
       </tr>
     </table>
-</div>
-
 <br>
 
 ### 🎨 Lenguajes de front-end: 
 
+<br>
+    <table border="1">
+        <tr>
+            <td> 
+              <b>HTML</b> 
+              <img src="[https://www.manualweb.net/img/logos/java.png](https://cdn2.icon-icons.com/icons2/512/PNG/512/html5-01_icon-icons.com_50875.png)" width="30px">
+            </td>
+            <td> 
+              <b>CSS</b> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30px">
+            </td>
+           <td> 
+              <b>JavaScript</b> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30px">
+            </td>
+      </tr>
+    </table>
 
  
 
