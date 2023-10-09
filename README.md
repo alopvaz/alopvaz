@@ -24,7 +24,7 @@
 <p align="center">
     <table border="1">
         <tr>
-            <td>
+            <td> 
               <b>Java</b> 
               <img src="https://www.manualweb.net/img/logos/java.png" width="30px">
             </td>
