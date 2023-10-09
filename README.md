@@ -37,5 +37,5 @@
 
 ### 🎨 Lenguajes de front-end: 
 
-- HTML <img src="https://cdn2.icon-icons.com/icons2/512/PNG/512/html5-01_icon-icons.com_50875.png"></im>
+- HTML <img src="https://cdn2.icon-icons.com/icons2/512/PNG/512/html5-01_icon-icons.com_50875.png" width="30px"></im>
 
