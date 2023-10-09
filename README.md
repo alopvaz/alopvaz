@@ -20,16 +20,15 @@
 ## Habilidades
 
   - Lenguajes de programación:
-
+<br>
 
 <div style="text-align: center">
-    Una tabla con una celda
     <table border="1">
         <tr>
-            <td>Java</td>
+            <td><b>Java<b></td>
         </tr>
        <tr>
-            <td>Python</td>
+            <td><b>Python<b></td>
         </tr>
     </table>
 </div>
