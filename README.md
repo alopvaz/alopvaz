@@ -19,10 +19,6 @@
 
   ## Habilidades
 
-  <p align="center">
-
-     <img src="https://iconos8.es/icon/2572/logotipo-de-java-coffee-cup"/>
-</p>
 
  
 
