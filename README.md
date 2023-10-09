@@ -21,7 +21,7 @@
 
 ### 💻 Lenguajes de programación:
 <br>
-<div style="text-align: center">
+<p align="center">
     <table border="1">
         <tr>
             <td>
@@ -34,7 +34,7 @@
             </td>
       </tr>
     </table>
-</div>
+</p>
 
 <br>
 
