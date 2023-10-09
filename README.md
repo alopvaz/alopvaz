@@ -25,7 +25,8 @@
 <div style="text-align: center">
     <table border="1">
         <tr>
-            <td><b>Java<b></td>
+            <td><b>Java<b> <img src="https://www.manualweb.net/img/logos/java.png" width="30px"> </img>
+</td>
         </tr>
        <tr>
             <td><b>Python<b></td>
@@ -34,7 +35,6 @@
 </div>
 
 
-<img src="https://www.manualweb.net/img/logos/java.png"> </img>
 
 
  
