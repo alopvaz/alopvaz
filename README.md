@@ -41,6 +41,6 @@
   
   - CSS <img src="https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="30px"></img>
   
-  - JavaScript <img src="https://es.wikipedia.org/wiki/Archivo:Unofficial_JavaScript_logo_2.svg"width="30px"></img>
+  - JavaScript <img src="https://es.wikipedia.org/wiki/Archivo:Unofficial_JavaScript_logo_2.svg" width="30px"></img>
 
 
