@@ -37,5 +37,10 @@
 
 ### 🎨 Lenguajes de front-end: 
 
-- HTML <img src="https://cdn2.icon-icons.com/icons2/512/PNG/512/html5-01_icon-icons.com_50875.png" width="30px"></im>
+- HTML <img src="https://cdn2.icon-icons.com/icons2/512/PNG/512/html5-01_icon-icons.com_50875.png" width="30px"></img>
+
+- CSS <img src="https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="30px"></img>
+
+- JavaScript <img src="[https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png](https://thumbs.dreamstime.com/z/javascript-logo-editorial-ilustrativo-sobre-fondo-blanco-illustrative-white-background-eps-descargar-vector-jpeg-banner-208329455.jpg?w=768)https://thumbs.dreamstime.com/z/javascript-logo-editorial-ilustrativo-sobre-fondo-blanco-illustrative-white-background-eps-descargar-vector-jpeg-banner-208329455.jpg?w=768" width="30px"></img>
+
 
