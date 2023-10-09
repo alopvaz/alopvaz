@@ -29,8 +29,7 @@
 </td>
         </tr>
        <tr>
-            <td><b>Python<b> <img src="https://www.maquinasvirtuales.eu/ipsoapoo/2020/04/xpython-aprendiendo-desde-cero-i-600x330.png.pagespeed.ic.8t2CtwsgLT.webp
-" width="30px"></td>
+            <td><b>Python<b> <img src= "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30px"></td>
         </tr>
     </table>
 </div>
