@@ -19,21 +19,11 @@
 
 ## Habilidades
 
-### 💻 Lenguajes de programación:
-<br>
-    <table border="1">
-        <tr>
-            <td> 
-              <b>Java</b> 
-              <img src="https://www.manualweb.net/img/logos/java.png" width="30px">
-            </td>
-            <td> 
-              <b>Python</b> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30px">
-            </td>
-      </tr>
-    </table>
-<br>
+### Lenguajes de programación 💻 
+
+  - Java <img src="https://www.manualweb.net/img/logos/java.png" width="30px">
+  
+  - Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30px">
 
 ### Lenguajes de front-end 🎨
 
