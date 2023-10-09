@@ -30,7 +30,7 @@
             </td>
             <td> 
               <b>Python</b> 
-              <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logonotext.svg" width="30px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logonotext.svg" width="30px">
             </td>
       </tr>
     </table>
