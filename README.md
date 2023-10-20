@@ -15,14 +15,13 @@
 
   ### 💻 Lenguajes de back-end: 
   
-* Apasionada del desarrollo web 🌐
-* Filósofa 🧠 con certificado 📃
-* Aprendiendo sobre Inteligencia Artificial 🤖 en mi tiempo libre 🌴
-* Humana, demasiado humana 🖋️n 
+* Java
+* Python 
+* PHP
 
   ### 🎨 Lenguajes de front-end: 
 
-      - HTML 
+      - 
 
       - CSS 
 
