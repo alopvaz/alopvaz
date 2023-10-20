@@ -15,17 +15,25 @@
 
 ## Habilidades técnicas:
 
-  ### 💻 Lenguajes de back-end: 
+### 💻 Lenguajes de back-end: 
   
 * Java
 * Python 
 * PHP
 
-  ### 🎨 Lenguajes de front-end:
+### 🎨 Lenguajes de front-end:
 
 * HTML
 * CSS 
-* JavaScript 
+* JavaScript
+
+### Frameworks: 
+
+* Spring Boot
+* React 
+* Angular
+* Jupyter
+* Django
   
 ## Habilidades personales: 
 
@@ -39,8 +47,6 @@
 * **Gmail**: alopvaz014@iesalmudeyne.es 
 * **LinkedIn**: [perfil]:https://es.linkedin.com/in/ana-alicia-l%C3%B3pez-v%C3%A1zquez-b97285179
 * **Teléfono**: 683928716
-
-
 
 
 
