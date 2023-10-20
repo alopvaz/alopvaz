@@ -15,17 +15,17 @@
 
   ### 💻 Lenguajes de back-end:  
 
-    * Java <img src="https://www.manualweb.net/img/logos/java.png" width="30px">
+    - Java <img src="https://www.manualweb.net/img/logos/java.png" width="30px">
   
-    * Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30px">
+    - Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30px">
 
   ### 🎨 Lenguajes de front-end: 
 
-      * HTML <img src="https://cdn2.icon-icons.com/icons2/512/PNG/512/html5-01_icon-icons.com_50875.png" width="30px"></img>
+      - HTML <img src="https://cdn2.icon-icons.com/icons2/512/PNG/512/html5-01_icon-icons.com_50875.png" width="30px"></img>
 
-      * CSS <img src="https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="30px"></img>
+      - CSS <img src="https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="30px"></img>
 
-      * JavaScript <img src="https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="30px"></img>
+      - JavaScript <img src="https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="30px"></img>
 
    
 
