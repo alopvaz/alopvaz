@@ -10,8 +10,10 @@
 * Filósofa 🧠 con certificado 📃
 * Aprendiendo sobre Inteligencia Artificial 🤖 en mi tiempo libre 🌴
 * Humana, demasiado humana 🖋️
+* Me encantan 🖋️
 
-## Habilidades:
+
+## Habilidades técnicas:
 
   ### 💻 Lenguajes de back-end: 
   
@@ -19,13 +21,29 @@
 * Python 
 * PHP
 
-  ### 🎨 Lenguajes de front-end: 
+  ### 🎨 Lenguajes de front-end:
 
-      - 
+* HTML
+* CSS 
+* JavaScript
 
-      - CSS 
+## Habilidades personales: 
 
-      - JavaScript 
+* Empatíca 
+* Trabajo en equipo  
+* Extrovertida
+* Generosa
 
-   
+## Contacto 😗
+
+* **Gmail**: alopvaz014@iesalmudeyne.es 
+* **LinkedIn**: [perfil]: https://es.linkedin.com/in/ana-alicia-l%C3%B3pez-v%C3%A1zquez-b97285179
+* **Teléfono**: 683928716
+
+
+
+
+
+
+
 
