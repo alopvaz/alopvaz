@@ -37,7 +37,7 @@
 ## Contacto 😗
 
 * **Gmail**: alopvaz014@iesalmudeyne.es 
-* **LinkedIn**: [perfil]: https://es.linkedin.com/in/ana-alicia-l%C3%B3pez-v%C3%A1zquez-b97285179
+* **LinkedIn**: [perfil]:https://es.linkedin.com/in/ana-alicia-l%C3%B3pez-v%C3%A1zquez-b97285179
 * **Teléfono**: 683928716
 
 
