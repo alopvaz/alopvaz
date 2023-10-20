@@ -13,11 +13,12 @@
 
 ## Habilidades:
 
-  ### 💻 Lenguajes de back-end:  
-
-    - Java 
+  ### 💻 Lenguajes de back-end: 
   
-    - Python 
+* Apasionada del desarrollo web 🌐
+* Filósofa 🧠 con certificado 📃
+* Aprendiendo sobre Inteligencia Artificial 🤖 en mi tiempo libre 🌴
+* Humana, demasiado humana 🖋️n 
 
   ### 🎨 Lenguajes de front-end: 
 
