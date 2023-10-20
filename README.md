@@ -25,7 +25,7 @@
 
 * HTML
 * CSS 
-* JavaScript ![image](https://github.com/alopvaz/alopvaz/assets/146581380/62061cb2-0e93-4850-a604-89fdd22639e0)
+* JavaScript ![image|10](https://github.com/alopvaz/alopvaz/assets/146581380/62061cb2-0e93-4850-a604-89fdd22639e0)
   
 ## Habilidades personales: 
 
