@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=33E8F7&background=3CFF4C00&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub+%F0%9F%98%8A;Soy+estudiante+de+DAW+%F0%9F%A4%93;Investigo+sobre+desarrollo+web+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-## Sobre mi:  
+## Sobre mi 😍  
 
 * Apasionada del desarrollo web 🌐
 * Filósofa 🧠 con certificado 📃
@@ -13,19 +13,19 @@
 
 ## Habilidades:
 
-  ### Lenguajes de back-end 💻 
+  ### 💻 Lenguajes de back-end:  
 
-    * **Java** <img src="https://www.manualweb.net/img/logos/java.png" width="30px">
+    * Java <img src="https://www.manualweb.net/img/logos/java.png" width="30px">
   
-    * **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30px">
+    * Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30px">
 
-  ### Lenguajes de front-end 🎨
+  ### 🎨 Lenguajes de front-end: 
 
-    * HTML <img src="https://cdn2.icon-icons.com/icons2/512/PNG/512/html5-01_icon-icons.com_50875.png" width="30px"></img>
-  
-    * CSS <img src="https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="30px"></img>
-  
-    * JavaScript
-<img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" width="30px"></img>
+      * HTML <img src="https://cdn2.icon-icons.com/icons2/512/PNG/512/html5-01_icon-icons.com_50875.png" width="30px"></img>
 
+      * CSS <img src="https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="30px"></img>
+
+      * JavaScript <img src="https://cdn2.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" width="30px"></img>
+
+   
 
