@@ -9,9 +9,8 @@
 * Apasionada del desarrollo web 🌐
 * Filósofa 🧠 con certificado 📃
 * Aprendiendo sobre Inteligencia Artificial 🤖 en mi tiempo libre 🌴
-* Humana, demasiado humana 🖋️
-* Me encantan 🖋️
-
+* Me encantan los animales 🐶 🐱 🐦
+* Cantante aficionada 🎤
 
 ## Habilidades técnicas:
 
@@ -22,6 +21,10 @@
 * PHP
 
 ### 🎨 Lenguajes de front-end:
+
+
+![](![image](https://github.com/alopvaz/alopvaz/assets/146581380/ed4765f6-7c02-448c-abb7-62880940bf71) =100x20)
+
 
 * HTML
 * CSS 
