@@ -22,10 +22,6 @@
 
 ### 🎨 Lenguajes de front-end:
 
-
-![image](https://github.com/alopvaz/alopvaz/assets/146581380/ed4765f6-7c02-448c-abb7-62880940bf71 =100x20)
-
-
 * HTML
 * CSS 
 * JavaScript
@@ -34,7 +30,6 @@
 
 * Spring Boot
 * React 
-* Angular
 * Jupyter
 * Django
   
